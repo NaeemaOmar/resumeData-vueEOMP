@@ -1,0 +1,98 @@
+{
+    "education":[
+        {
+            "id":"1",
+            "year":"2015",
+            "qualification":"NSC",
+            "institute":"Islamia College"
+        },
+        {
+            "id":"2",
+            "year":"2021-2022",
+            "qualification":"BEng (civil)",
+            "institute":"Stellenbosch University"
+        },
+        {
+            "id":"3",
+            "year":"2023-present",
+            "qualification":"Full-stack development",
+            "institute":"Life Choices Coding Academy"
+        }
+    ],
+    "workExperienceSummary":[
+        {
+            "id":"1",
+            "year":"2016-2017",
+            "role":"Cashier, Floor manager",
+            "employer":"Baraka Bazaar"
+        },
+        {
+            "id":"2",
+            "year":"2018-present",
+            "role":"Private tutor",
+            "employer":"Self-employed"
+        },
+        {
+            "id":"3",
+            "year":"2022",
+            "role":"Academic facilitator",
+            "employer":"SANZAF (South African National Zakaah Fund)"
+        }
+    ],
+    "workExperienceDescr":[
+        {
+            "id": 1,
+            "desc1":"After graduating highschool in 2015, I spent a year working at first as a cashier and then as an assistant floor manager at a wholesaler in Cape Town. I left that job at the end of the year due to the long work commute and started working in my area as private tutor. I continued am still doing that work presently as it is a flexible job that allows me to pursue my studies without being a dependant.",
+            "desc2":"During the 2 years I was studying civil engineering, at Stellenbosch University, I had a partial bursary with SANZAF so in 2022 when they were looking for academic facilitators to tutor high schoolers as part of their community support programs, I offered my services as I already had 4 years experience as a tutor."
+        }
+    ],
+    "technicalSkills":[
+        {
+            "id":"1",
+            "name":"HTML",
+            "img":"https://i.ibb.co/tbkc4bH/JS-EOMP-no-Bg.pnghttps://i.ibb.co/myg5CVf/htmlIcon.png",
+            "mastery":"Proficient"
+        },
+        {
+            "id":"2",
+            "name":"CSS",
+            "img":"https://i.ibb.co/Tbb4Qcs/cssIcon.png",
+            "mastery":"Proficient"
+        },
+        {
+            "id":"3",
+            "name":"Bootstrap",
+            "img":"https://i.ibb.co/2P3hyTc/bootstrap-Icon.png",
+            "mastery":"Proficient"
+        },
+        {
+            "id":"4",
+            "name":"Javascript",
+            "img":"https://i.ibb.co/VwstK2M/jsIcon.png",
+            "mastery":"Intermediate"
+        },
+        {
+            "id":"5",
+            "name":"Vue.js",
+            "img":"https://i.ibb.co/VHvrPDM/vueIcon.png",
+            "mastery":"Beginner"
+        }
+    ],
+    "softSkills":[
+        {
+            "id":"1",
+            "name":"Leadership",
+            "desc":"I am good at taking charge of a task and ensuring that everyone is on the same page."
+        },
+        {
+            "id":"2",
+            "name":"Communication",
+            "desc":"I have well-developed communication skills since I'm very sociable and enjoy debating."
+        },
+        {
+            "id":"3",
+            "name":"Problem solving",
+            "desc":"I enjoy the process of grappling with a problem, as well as planning and trying out different solutions."
+        }
+    ]
+}
